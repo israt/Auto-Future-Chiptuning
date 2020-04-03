@@ -1,0 +1,182 @@
+/******************************************** RESPONSIVE STYLES*****************************************/
+/*------------------------------------------------------------------------------------------------------*
+/*******************************************  Author: Dynasty3 *****************************************/
+/**********************************  URL: http://www.dynasty3.co.uk ************************************/
+/*-----------------------------------------------------------------------------------------------------*/
+
+/* ---------- MAX 1500PX ---------- */
+@media only screen and (max-width:1500px) {
+	
+}
+
+/* ---------- MAX 1280PX ---------- */
+@media only screen and (max-width:1280px) {
+
+}
+
+/* ---------- MAX 1199PX ---------- */
+@media only screen and (max-width:1199px) {
+
+
+}
+
+
+/* ---------- MAX 1112PX ---------- */
+@media screen and (max-width:1112px) {
+
+}
+	
+/* ---------- MAX 1080PX ---------- */
+@media screen and (max-width:1080px) {
+
+}
+
+
+
+/* ---------- MAX 1024PX ---------- */
+@media screen and (max-width:1024px) {
+
+
+}
+
+/* ---------- MAX 991PX ---------- */
+@media only screen and (max-width:991px) {
+
+}
+
+
+
+/* ---------- MAX 800PX ---------- */
+@media only screen and (max-width:800px) {
+	
+
+}
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (max-width:768px) {
+/*.....menu styles.....*/
+.menu-area ul li {
+	display: block;
+}
+header.sticky ul {
+	text-align: center;
+	width: 100%;
+	float: left;
+	padding-top: 25px;
+	position: relative;
+}
+.fa-bars {
+    display: block;
+    float: right;
+    font-size: 32px;
+    text-align: right;
+    margin-top: 25px;
+	cursor:pointer;
+	color: #222221;
+}
+.logo-area2 {
+    width: 100%;
+}
+.menu-area ul{
+	display:none;
+	position: absolute;
+    background: #fff;
+    z-index: 99;
+	}
+/*.....menu styles ends.....*/
+section.buisness {
+    padding-top:35px;
+    padding-bottom: 10px;
+}
+.section-title h1 {
+    font-size: 22px;
+    background:none; 
+    line-height:28px;
+}
+.single-business p {
+    padding: 0px 0px;
+}
+.single-business {
+    margin-bottom: 25px;
+}
+.section-title-white h1 {
+    font-size: 22px;
+    background:none; 
+    line-height:28px;
+}
+section.plan {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+.section-title h1 {
+    margin-bottom: 10px;
+}
+section.phones {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+section.virtual {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+.section-title-white h1 {
+    margin-bottom: 10px;
+}
+section.contact {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+.accordion__trigger {
+    font-size: 16px;
+}
+.single-faq i {
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+.single-fax h2 {
+    margin-top: 6px;
+}
+.single-fax {
+    margin-top: 10px;
+}
+
+	
+
+
+}
+
+
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (max-width:767px) {
+
+}
+
+
+
+/* ---------- MAX 640PX ---------- */
+@media screen and (max-width:640px) {
+
+}
+
+/* ---------- MAX 480PX ---------- */
+@media screen and (max-width:480px) {
+
+
+}
+
+
+/* ---------- MAX 360PX ---------- */
+@media screen and (max-width:360px) {
+
+}
+
+
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+
+}
